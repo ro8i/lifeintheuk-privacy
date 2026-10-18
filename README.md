@@ -1,4 +1,4 @@
-# Life in the UK Test Prep — Privacy Policy
+# Life in the UK: Study & Test - Privacy Policy
 
 The privacy policy for the iOS app, published at https://ro8i.github.io/lifeintheuk-privacy/
 
